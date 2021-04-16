@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082762564977",
+    "firebase_url": "https://dllnews-847fd.firebaseio.com",
+    "project_id": "dllnews-847fd",
+    "storage_bucket": "dllnews-847fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082762564977:android:aa59eeec795f6274",
+        "android_client_info": {
+          "package_name": "com.example.dllnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082762564977-q2hooteam4e7jn6nlri54e1qvb21i175.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dllnews",
+            "certificate_hash": "eb0f80c74f2ea8e7189a46847b81eceafdfd5a8b"
+          }
+        },
+        {
+          "client_id": "1082762564977-5u8ckn7kj3tmh6agcl46ungqk29a53ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Nag4elDVHpmTCwq-aNH0FilvVKZWGF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082762564977-5u8ckn7kj3tmh6agcl46ungqk29a53ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
